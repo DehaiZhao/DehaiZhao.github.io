@@ -132,6 +132,11 @@ publications:
     intro: |
     
     papers:
+    - title: "Seenomaly: Vision-Based Linting of GUI Animation Effects Against Design-Don’t Guidelines"
+        link: "#"
+        authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, Guoqiang Li, Jinshui Wang
+        conference: "ICSE 2020"
+        
       - title: "ActionNet: vision-based workflow action recognition from programming screencasts."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
