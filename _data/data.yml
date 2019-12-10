@@ -24,35 +24,33 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+ #   languages:
+ #     - idiom: English
+ #       level: Native
 
-      - idiom: French
-        level: Professional
+ #     - idiom: French
+ #       level: Professional
 
-      - idiom: Spanish
-        level: Professional
+ #     - idiom: Spanish
+ #       level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+ #   interests:
+ #     - item: Climbing
+ #       link:
 
-      - item: Snowboarding
-        link:
+ #     - item: Snowboarding
+ #       link:
 
-      - item: Cooking
-        link:
+ #     - item: Cooking
+ #       link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Ph.D. student in the Research School of Computer Science, Australian National University.
+      My main research area is software engineering.
+      Specifically, using computer vision and deep learning methods to solve software engineering problems.
+      I am also interested in cloud computing and Internet of Things.
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -144,14 +142,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: ActionNet: vision-based workflow action recognition from programming screencasts.
+        link: "http://delivery.acm.org/10.1145/3340000/3339551/p350-zhao.pdf?ip=150.203.212.149&id=3339551&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2E0DA2E2E82310B866%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575953198_975ae97b4861c0fa1563c2c6af234bef"
+        authors: Dehai Zhao, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
+        conference: ICSE 2019
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
