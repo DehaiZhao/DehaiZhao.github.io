@@ -136,6 +136,11 @@ publications:
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
         conference: "ICSE 2019: 350-361"
+        
+      - title: "A Streaming Cloud Platform for Real-Time Video Processing on Embedded Devices."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
+        authors: Weishan Zhang, Haoyun Sun, <u>Dehai Zhao</u>, Liang Xu, Xin Liu, Huansheng Ning, Jiehan Zhou, Yi Guo, Su Yang
+        conference: "IEEE Transactions on Cloud Computing PP(99):1-1 (2019)"
 
       - title: "Multi-source data fusion using deep learning for smart refrigerators."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2018multi.pdf"
