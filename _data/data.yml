@@ -133,19 +133,65 @@ publications:
     
     papers:
       - title: "ActionNet: vision-based workflow action recognition from programming screencasts."
-        link: "http://delivery.acm.org/10.1145/3340000/3339551/p350-zhao.pdf?ip=150.203.212.149&id=3339551&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2E0DA2E2E82310B866%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575955521_dc5766bf44d25e233037e18872cc9ed4"
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
         conference: "ICSE 2019: 350-361"
 
       - title: "Multi-source data fusion using deep learning for smart refrigerators."
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2018multi.pdf"
+        authors: Weishan Zhang, Yuanjie Zhang, Jia Zhai, <u>Dehai Zhao<u/>, Liang Xu, Jiehan Zhou, Zhongwei Li, Su Yang
+        conference: "Computers in Industry 95: 15-21 (2018)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "An intelligent power distribution service architecture using cloud computing and deep learning techniques."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2018intelligent.pdf"
+        authors: Weishan Zhang, Gaowa Wulan, Jia Zhai, Liang Xu, <u>Dehai Zhao<u/>, Xin Liu, Su Yang, Jiehan Zhou
+        conference: "J. Network and Computer Applications 103: 239-248 (2018)"
+        
+      - title: "Emotion Recognition from Chinese Speech for Smart Affective Services Using a Combination of SVM and DBN."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhu2017emotion.pdf"
+        authors: Lianzhang Zhu, Leiming Chen, <u>Dehai Zhao<u/>, Jiehan Zhou, Weishan Zhang
+        conference: "Sensors 17(7): 1694 (2017)"
+
+      - title: "Deep learning and SVM-based emotion recognition from Chinese speech for smart affective services."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2017deep.pdf"
+        authors: Weishan Zhang, <u>Dehai Zhao<u/>, Zhi Chai, Laurence T. Yang, Xin Liu, Faming Gong, Su Yang
+        conference: "Softw., Pract. Exper. 47(8): 1127-1138 (2017)"
+
+      - title: "Patching by automatically tending to hub nodes based on social trust."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/liu2016patching.pdf"
+        authors: Xin Liu, Yao Wang, <u>Dehai Zhao<u/>, Weishan Zhang, Leyi Shi
+        conference: "Computer Standards & Interfaces 44: 94-101 (2016)"
+        
+      - title: "Deep Learning Based Emotion Recognition from Chinese Speech."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2016deep.pdf"
+        authors: Weishan Zhang, <u>Dehai Zhao<u/>, Xiufeng Chen, Yuanjie Zhang
+        conference: "ICOST 2016: 49-58"
+
+      - title: "Workload Prediction for Cloud Cluster Using a Recurrent Neural Network."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2016workload.pdf"
+        authors: Weishan Zhang, Bo Li, <u>Dehai Zhao<u/>, Faming Gong, Qinghua Lu
+        conference: "IIKI 2016: 104-109"
+
+      - title: "An Empirical Study on Big Video Data Processing: Architectural Styles, Issues, and Challenges."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2016empirical.pdf"
+        authors: Weishan Zhang, Zhichao Wang, Liang Xu, <u>Dehai Zhao<u/>, Faming Gong, Qinghua Lu
+        conference: "IIKI 2016: 110-115"
+        
+      - title: "Distributed embedded deep learning based real-time video processing."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2016distributed.pdf"
+        authors: Weishan Zhang, <u>Dehai Zhao<u/>, Liang Xu, Zhongwei Li, Wenjuan Gong, Jiehan Zhou
+        conference: "SMC 2016: 1945-1950"
+
+      - title: "A Distributed Video Management Cloud Platform Using Hadoop."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/liu2015distributed.pdf"
+        authors: Xin Liu, <u>Dehai Zhao<u/>, Liang Xu, Weishan Zhang, Jijun Yin, Xiufeng Chen
+        conference: "IEEE Access 3: 2637-2643 (2015)"
+
+      - title: "Food Image Recognition with Convolutional Neural Networks."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2015food.pdf"
+        authors: Weishan Zhang, <u>Dehai Zhao<u/>, Wenjuan Gong, Zhongwei Li, Qinghua Lu, Su Yang
+        conference: "UIC/ATC/ScalCom 2015: 690-693"
+        
 
 skills:
     title: Skills &amp; Proficiency
