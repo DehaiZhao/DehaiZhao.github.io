@@ -146,11 +146,11 @@ publications:
     papers:
       - title: ActionNet: vision-based workflow action recognition from programming screencasts.
         link: "http://delivery.acm.org/10.1145/3340000/3339551/p350-zhao.pdf?ip=150.203.212.149&id=3339551&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2E0DA2E2E82310B866%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575953198_975ae97b4861c0fa1563c2c6af234bef"
-        authors: Dehai Zhao, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
-        conference: ICSE 2019
+        authors: **Dehai Zhao**, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
+        conference: ICSE 2019: 350-361
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
+      - title: Multi-source data fusion using deep learning for smart refrigerators.
+        link: "Weishan Zhang, Yuanjie Zhang, Jia Zhai, Dehai Zhao, Liang Xu, Jiehan Zhou, Zhongwei Li, Su Yang"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
