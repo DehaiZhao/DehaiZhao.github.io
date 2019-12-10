@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
- #   languages:
+    languages:
  #     - idiom: English
  #       level: Native
 
@@ -34,7 +34,7 @@ sidebar:
  #     - idiom: Spanish
  #       level: Professional
 
- #   interests:
+    interests:
  #     - item: Climbing
  #       link:
 
