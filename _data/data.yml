@@ -134,7 +134,7 @@ publications:
     papers:
       - title: "ActionNet: vision-based workflow action recognition from programming screencasts."
         link: "http://delivery.acm.org/10.1145/3340000/3339551/p350-zhao.pdf?ip=150.203.212.149&id=3339551&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2E0DA2E2E82310B866%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575955521_dc5766bf44d25e233037e18872cc9ed4"
-        authors: Dehai Zhao, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
+        authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
         conference: "ICSE 2019: 350-361"
 
       - title: "Multi-source data fusion using deep learning for smart refrigerators."
