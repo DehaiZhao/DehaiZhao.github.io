@@ -133,7 +133,7 @@ publications:
     
     papers:
       - title: "Seenomaly: Vision-Based Linting of GUI Animation Effects Against Design-Don’t Guidelines."
-        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications"
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2020seenomaly.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, Guoqiang Li, Jinshui Wang
         conference: "ICSE 2020"
         
