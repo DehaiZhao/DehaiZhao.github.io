@@ -102,33 +102,27 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: SeeHow
+    title: 
     intro: >
-      Using computer vision and deep learning methods to extract line granularity coding behaviours from programming screencasts.
-    link: "http://seecollections.com/seehow/"
+        My projects mainly focus on two areas: programming screencast analysis and automatic GUI testing.
+        All of them are based on computer vision and deep learning methods.
     
-    title: Seenomaly
-    intro: >
-      Computer vision and deep learning based methods to solve GUI animation linting problem.
-    link: "https://github.com/DehaiZhao/Seenomaly"
-    
-    title: ActionNet
-    intro: >
-      Applying computer vision and deep learning methods to extract primary actions such as moving mouse and typing text from programming screencasts.
-    link: "https://github.com/DehaiZhao/ActionNet_0"
-    
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: SeeHow
+        link: "http://seecollections.com/seehow/"
+        tagline: "Using computer vision and deep learning methods to extract line granularity coding behaviours from programming screencasts."
 
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Seenomaly
+        link: "https://github.com/DehaiZhao/Seenomaly"
+        tagline: "Computer vision and deep learning based methods to solve GUI animation linting problem."
 
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ActionNet
+        link: "https://github.com/DehaiZhao/ActionNet_0"
+        tagline: "Applying computer vision and deep learning methods to extract primary actions such as moving mouse and typing text from programming screencasts."
+        
+      - title: ActionNet dataset
+        link: "https://drive.google.com/file/d/1gT3afHGFIxfPlWK4LCq8Cp1RlhPboRgw/view?usp=sharing"
+        tagline: "A large scale dataset for training ActionNet, which contains about 1.2 million examples."
 
 #      - title: Atom
 #        link: "#"
