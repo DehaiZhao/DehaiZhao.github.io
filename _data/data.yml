@@ -217,6 +217,15 @@ skills:
 
       - name: Tensorflow
         level: 98%
+        
+      - name: OpenCV
+        level: 95%
 
       - name: Django
+        level: 80%
+        
+      - name: Java
+        level: 70%
+
+      - name: Spring Boot
         level: 60%
