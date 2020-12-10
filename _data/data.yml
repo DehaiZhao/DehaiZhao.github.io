@@ -218,7 +218,7 @@ skills:
       - name: Tensorflow
         level: 98%
         
-      - name: OpenCV
+      - name: OpenCV & FFmpeg
         level: 95%
 
       - name: Django
