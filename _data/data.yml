@@ -50,6 +50,7 @@ career-profile:
       I am a Ph.D. student in the Research School of Computer Science, Australian National University.
       My main research area is software engineering.
       Specifically, using computer vision and deep learning methods to solve software engineering problems.
+      The goal of my research is improving the quality and efficiency of programming.
       I am also interested in cloud computing and Internet of Things.
 education:
     - degree: M.Eng in Software Engineering
@@ -101,7 +102,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: SeeHow
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
