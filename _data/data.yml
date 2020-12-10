@@ -102,7 +102,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: 
+    title: Projects
     intro: >
         My projects mainly focus on two areas: programming screencast analysis and automatic GUI testing.
         All of them are based on computer vision and deep learning methods.
