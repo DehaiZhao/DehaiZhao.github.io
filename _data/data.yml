@@ -63,6 +63,9 @@ education:
       time: 2010 - 2014
       details: |
       
+services:
+    - role: MSR Shadow PC
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
