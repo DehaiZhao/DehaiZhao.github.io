@@ -63,8 +63,16 @@ education:
       time: 2010 - 2014
       details: |
       
-services:
-    - role: MSR Shadow PC
+teaching:
+    - role: Tutor
+      course: Software Engineering
+      time: 2020 Semester 1
+    - role: Tutor
+      course: Software Engineering
+      time: 2020 Semester 2
+    - role: Lecture
+      course: Software Engineering
+      time: 2021 Semester 1
       
 experiences:
     - role: Lead Developer
