@@ -1,21 +1,23 @@
-{% assign services = site.data.data.services %}
-{% if services %}
-<section class="section services-section">
+{% assign teaching = site.data.data.teaching %}
+{% if teaching %}
+<section class="section teaching-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Services
+    Teaching
   </h2>
 
-  {% for service in services %}
+  {% for teach in teaching %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
         <h3 class="job-title">{{ service.role }}</h3>
+        <h3 class="job-title">{{ service.course }}</h3>
+        <h3 class="job-title">{{ service.time }}</h3>
       </div><!--//upper-row-->
 
     </div><!--//meta-->
