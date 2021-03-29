@@ -143,7 +143,7 @@ publications:
       - title: "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/tosem2021.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Deheng Ye, Xiwei Xu, Liming Zhu
-        journal: "TOSEM (Under review)"
+        conference: "TOSEM (Under revision)"
     
       - title: "Seenomaly: Vision-Based Linting of GUI Animation Effects Against Design-Don’t Guidelines."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2020seenomaly.pdf"
