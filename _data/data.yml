@@ -64,15 +64,9 @@ education:
       details: |
       
 teachings:
-    - role: Tutor
-      course: Software Engineering
-      time: 2020 Semester 1
-    - role: Tutor
-      course: Software Engineering
-      time: 2020 Semester 2
-    - role: Lecture
-      course: Software Engineering
-      time: 2021 Semester 1
+    - role: 2020 Semester 1 | Tutor | Software Engineering
+    - role: 2020 Semester 2 | Tutor | Software Engineering
+    - role: 2021 Semester 1 | Lecture | Software Engineering
       
 experiences:
     - role: Lead Developer
