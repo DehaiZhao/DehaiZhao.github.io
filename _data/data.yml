@@ -51,6 +51,7 @@ career-profile:
       I obtained my PhD from the Research School of Computer Science at the Australian National University, with a primary focus on intelligent software engineering. 
       My research during this period delved into harnessing computer vision and deep learning techniques to address software engineering challenges, aiming to elevate the quality and efficiency of programming. 
       Additionally, I hold a keen interest in cloud computing and the Internet of Things (IoT).
+      
 education:
     - degree: PhD in Software Engineering
       university: Australian National University
@@ -146,6 +147,11 @@ publications:
     intro: |
     
     papers:
+      - title: "Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code"
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2024hard.pdf"
+        authors: Zejun Zhang, Zhenchang Xing, <u>Dehai Zhao</u>, Qinghua Lu, Xiwei Xu, Liming Zhu
+        conference: "ICSE2024"
+        
       - title: "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/tosem2021.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Deheng Ye, Xiwei Xu, Liming Zhu
@@ -235,26 +241,29 @@ publications:
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2015food.pdf"
         authors: Weishan Zhang, <u>Dehai Zhao</u>, Wenjuan Gong, Zhongwei Li, Qinghua Lu, Su Yang
         conference: "UIC/ATC/ScalCom 2015: 690-693"
-        
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Tensorflow
-        level: 98%
+    title: ICSE 2019 Nomination Award
         
-      - name: OpenCV & FFmpeg
-        level: 95%
 
-      - name: Django
-        level: 80%
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Python
+#         level: 98%
+
+#       - name: Tensorflow
+#         level: 98%
         
-      - name: Java
-        level: 70%
+#       - name: OpenCV & FFmpeg
+#         level: 95%
 
-      - name: Spring Boot
-        level: 60%
+#       - name: Django
+#         level: 80%
+        
+#       - name: Java
+#         level: 70%
+
+#       - name: Spring Boot
+#         level: 60%
