@@ -165,6 +165,11 @@ publications:
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2019streaming.pdf"
         authors: Weishan Zhang, Haoyun Sun, <u>Dehai Zhao</u>, Liang Xu, Xin Liu, Huansheng Ning, Jiehan Zhou, Yi Guo, Su Yang
         conference: "IEEE Transactions on Cloud Computing 9(3): 868-880 (2021)"
+
+      - title: "CNN-based Multi-model Birdcall Identification on Embedded Devices."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/pan2021cnn.pdf"
+        authors: Shidong Pan, <u>Dehai Zhao</u>, Weishan Zhang
+        conference: "SmartIoT 2021: 245-251"
     
       - title: "Seenomaly: Vision-Based Linting of GUI Animation Effects Against Design-Don’t Guidelines."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2020seenomaly.pdf"
