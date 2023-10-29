@@ -72,6 +72,15 @@ teachings:
     - role: 2020 Semester 1 | Tutor | Software Engineering
     - role: 2020 Semester 2 | Tutor | Software Engineering
     - role: 2021 Semester 1 | Lecture | Software Engineering
+
+awards:
+    - role: ICSE 2019 Nomination Award
+    - role: 2017 Honors Graduate of China University of Petroleum
+    - role: 2016 CCF Big data & computing intelligence contest special award.
+
+
+services:
+    - role: MSR 2021 Shadow PC committee
       
 experiences:
     - role: Lead Developer
