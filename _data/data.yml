@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am currently a Postdoctoral Researcher at CSIRO's Data61 in the SE4AI team, where I lead the development of the guardrail system for Large Language Models, a key component of Responsible AI. 
+      I am a Postdoctoral Researcher at CSIRO's Data61 in the SE4AI team, where I lead the development of the guardrail system for Large Language Models, a key component of Responsible AI. 
       I obtained my PhD from the Research School of Computer Science at the Australian National University, with a primary focus on intelligent software engineering. 
       My research during this period delved into harnessing computer vision and deep learning techniques to address software engineering challenges, aiming to elevate the quality and efficiency of programming. 
       Additionally, I hold a keen interest in cloud computing and the Internet of Things (IoT).
@@ -150,6 +150,21 @@ publications:
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/tosem2021.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Deheng Ye, Xiwei Xu, Liming Zhu
         conference: "ICSE2023"
+
+      - title: "Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/ni2023distinguishing.pdf"
+        authors: Chao Ni, Xin Yin, Kaiwen Yang, <u>Dehai Zhao</u>, Zhenchang Xing, Xin Xia
+        conference: "FSE2023"
+
+      - title: "From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/ren2023from.pdf"
+        authors: Xiaoxue Ren, Xinyuan Ye, <u>Dehai Zhao</u>, Zhenchang Xing, Xiaohu Yang
+        conference: "ASE2023"
+
+      - title: "A Streaming Cloud Platform for Real-Time Video Processing on Embedded Devices."
+        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2019streaming.pdf"
+        authors: Weishan Zhang, Haoyun Sun, <u>Dehai Zhao</u>, Liang Xu, Xin Liu, Huansheng Ning, Jiehan Zhou, Yi Guo, Su Yang
+        conference: "IEEE Transactions on Cloud Computing 9(3): 868-880 (2021)"
     
       - title: "Seenomaly: Vision-Based Linting of GUI Animation Effects Against Design-Don’t Guidelines."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2020seenomaly.pdf"
@@ -160,11 +175,6 @@ publications:
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
         conference: "ICSE 2019: 350-361"
-        
-      - title: "A Streaming Cloud Platform for Real-Time Video Processing on Embedded Devices."
-        link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2019streaming.pdf"
-        authors: Weishan Zhang, Haoyun Sun, <u>Dehai Zhao</u>, Liang Xu, Xin Liu, Huansheng Ning, Jiehan Zhou, Yi Guo, Su Yang
-        conference: "IEEE Transactions on Cloud Computing PP(99):1-1 (2019)"
 
       - title: "Multi-source data fusion using deep learning for smart refrigerators."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2018multi.pdf"
