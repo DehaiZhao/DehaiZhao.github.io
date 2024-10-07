@@ -141,9 +141,9 @@ projects:
         link: "https://github.com/DehaiZhao/ActionNet_0"
         tagline: "Applying computer vision and deep learning methods to extract primary actions such as moving mouse and typing text from programming screencasts."
         
-      - title: ActionNet dataset
-        link: "https://drive.google.com/file/d/1gT3afHGFIxfPlWK4LCq8Cp1RlhPboRgw/view?usp=sharing"
-        tagline: "A large scale dataset for training ActionNet, which contains about 1.2 million examples."
+#      - title: ActionNet dataset
+#        link: "https://drive.google.com/file/d/1gT3afHGFIxfPlWK4LCq8Cp1RlhPboRgw/view?usp=sharing"
+#        tagline: "A large scale dataset for training ActionNet, which contains about 1.2 million examples."
 
 #      - title: Atom
 #        link: "#"
