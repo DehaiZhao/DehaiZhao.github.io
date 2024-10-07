@@ -74,12 +74,14 @@ teachings:
     - role: 2021 Semester 1 | Lecture | Software Engineering
 
 awards:
+    - role: ICSE 2024 Distinguished Paper Award
     - role: ICSE 2019 Distinguished Paper Nomination Award
     - role: 2017 Honors Graduate of China University of Petroleum
     - role: 2016 CCF Big Data & Computing Intelligence Contest Special Award.
 
 
 services:
+    - role: ASE 2024 PC committee
     - role: MSR 2021 Shadow PC committee
       
 experiences:
@@ -159,7 +161,7 @@ publications:
       - title: "Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code"
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2024hard.pdf"
         authors: Zejun Zhang, Zhenchang Xing, <u>Dehai Zhao</u>, Qinghua Lu, Xiwei Xu, Liming Zhu
-        conference: "ICSE2024"
+        conference: "ICSE2024 (ACM SIGSOFT Distinguished Paper Award)"
         
       - title: "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/tosem2021.pdf"
@@ -194,7 +196,7 @@ publications:
       - title: "ActionNet: vision-based workflow action recognition from programming screencasts."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhao2019actionnet.pdf"
         authors: <u>Dehai Zhao</u>, Zhenchang Xing, Chunyang Chen, Xin Xia, Guoqiang Li
-        conference: "ICSE 2019: 350-361"
+        conference: "ICSE 2019: 350-361 (ACM SIGSOFT Distinguished Paper Nomination)"
 
       - title: "Multi-source data fusion using deep learning for smart refrigerators."
         link: "https://github.com/DehaiZhao/DehaiZhao.github.io/blob/master/publications/zhang2018multi.pdf"
