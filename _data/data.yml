@@ -12,7 +12,7 @@ sidebar:
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dehai.zhao@anu.edu.au
+    email: dehai.zhao@zju.edu.cn
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     linkedin: dehai-zhao-98b39a170
@@ -47,13 +47,15 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am a Research Scientist at Australian CSIRO's Data61 in the SE4AI team, where I lead the development of the guardrail system for Large Language Models, a key component of Responsible AI. 
+      I am a researcher at Zhejiang University, where I focus on Large Language Models, Embodied Intelligence, and AI Agents. 
+      Previously, I worked as a Research Scientist at CSIRO's Data61 in the SE4AI team, where I led the development of guardrail systems for Large Language Models, a key component of Responsible AI.
+      
       I obtained my PhD from the Research School of Computer Science at the Australian National University, with a primary focus on intelligent software engineering. 
-      My research during this period delved into harnessing computer vision and deep learning techniques to address software engineering challenges, aiming to elevate the quality and efficiency of programming. 
-      Additionally, I hold a keen interest in cloud computing and the Internet of Things (IoT).
+      My doctoral research explored harnessing computer vision and deep learning techniques to address software engineering challenges, aiming to elevate the quality and efficiency of programming. 
+      I also maintain a keen interest in cloud computing and the Internet of Things (IoT).
       
 education:
-    - degree: PhD in Software Engineering
+    - degree: PhD in Computer Science
       university: Australian National University
       time: 2018 - 2022
       details: |
@@ -74,15 +76,18 @@ teachings:
     - role: 2021 Semester 1 | Lecture | Software Engineering
 
 awards:
-    - role: ICSE 2024 Distinguished Paper Award
+    - role: ICSE 2025 ACM SIGSOFT Distinguished Paper Award
+    - role: ICSE 2024 ACM SIGSOFT Distinguished Paper Award
     - role: ICSE 2019 Distinguished Paper Nomination Award
     - role: 2017 Honors Graduate of China University of Petroleum
     - role: 2016 CCF Big Data & Computing Intelligence Contest Special Award.
 
 
 services:
-    - role: ASE 2024 PC committee
-    - role: MSR 2021 Shadow PC committee
+    - role: FSE 2025 Program Committee
+    - role: ASE 2025 Program Committee
+    - role: ASE 2024 Program Committee
+    - role: MSR 2021 Shadow Program Committee
       
 experiences:
     - role: Lead Developer
